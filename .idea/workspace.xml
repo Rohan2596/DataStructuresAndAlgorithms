@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c02e0ca8-b37d-4dc7-902f-f7d2bdc380d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Stacks/StackExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Stacks/StackLinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Stacks/StackPeeping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Stacks/StackSearching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Stacks/StacksExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/datastructure/LinkedList/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/datastructure/LinkedList/DoubleLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +36,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.DoubleLinkedList">
-    <configuration name="ArrayCloneExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Arrays.ArrayCloneExample1" />
+  <component name="RunManager" selected="Application.StackLinkedlist">
+    <configuration name="StackExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Stacks.StackExample2" />
       <module name="DataStructureAndAlogrithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.datastructure.Arrays.*" />
+          <option name="PATTERN" value="com.practice.datastructure.Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysClassObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Arrays.ArraysClassObjects" />
+    <configuration name="StackLinkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Stacks.StackLinkedlist" />
       <module name="DataStructureAndAlogrithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.datastructure.Arrays.*" />
+          <option name="PATTERN" value="com.practice.datastructure.Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysMethodsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Arrays.ArraysMethodsExample" />
+    <configuration name="StackPeeping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Stacks.StackPeeping" />
       <module name="DataStructureAndAlogrithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.datastructure.Arrays.*" />
+          <option name="PATTERN" value="com.practice.datastructure.Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.LinkedList.DoubleLinkedList" />
+    <configuration name="StackSearching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Stacks.StackSearching" />
       <module name="DataStructureAndAlogrithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.datastructure.LinkedList.*" />
+          <option name="PATTERN" value="com.practice.datastructure.Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinglyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.LinkedList.SinglyList" />
+    <configuration name="StacksExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Stacks.StacksExample1" />
       <module name="DataStructureAndAlogrithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.datastructure.LinkedList.*" />
+          <option name="PATTERN" value="com.practice.datastructure.Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,19 +103,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArraysMethodsExample" />
-      <item itemvalue="Application.ArraysClassObjects" />
-      <item itemvalue="Application.ArrayCloneExample1" />
-      <item itemvalue="Application.SinglyList" />
-      <item itemvalue="Application.DoubleLinkedList" />
+      <item itemvalue="Application.StacksExample1" />
+      <item itemvalue="Application.StackExample2" />
+      <item itemvalue="Application.StackSearching" />
+      <item itemvalue="Application.StackPeeping" />
+      <item itemvalue="Application.StackLinkedlist" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoubleLinkedList" />
-        <item itemvalue="Application.SinglyList" />
-        <item itemvalue="Application.ArrayCloneExample1" />
-        <item itemvalue="Application.ArraysClassObjects" />
-        <item itemvalue="Application.ArraysMethodsExample" />
+        <item itemvalue="Application.StackLinkedlist" />
+        <item itemvalue="Application.StackPeeping" />
+        <item itemvalue="Application.StackSearching" />
+        <item itemvalue="Application.StackExample2" />
+        <item itemvalue="Application.StacksExample1" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589525384348</updated>
       <workItem from="1589525389828" duration="22729000" />
-      <workItem from="1589605152263" duration="5651000" />
+      <workItem from="1589605152263" duration="11484000" />
     </task>
     <servers />
   </component>
@@ -146,30 +150,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="803" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1589567307161">
+    <state x="803" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1589627742797">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="803" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1589567307161" />
+    <state x="803" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1589627742797" />
     <state x="315" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1589551621700">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="315" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1589551621700" />
-    <state width="1804" height="164" key="GridCell.Tab.0.bottom" timestamp="1589612250893">
+    <state width="879" height="164" key="GridCell.Tab.0.bottom" timestamp="1589628370019">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="164" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1589612250893" />
-    <state width="1804" height="164" key="GridCell.Tab.0.center" timestamp="1589612250892">
+    <state width="879" height="164" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1589628370019" />
+    <state width="879" height="164" key="GridCell.Tab.0.center" timestamp="1589628370018">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="164" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1589612250892" />
-    <state width="1804" height="164" key="GridCell.Tab.0.left" timestamp="1589612250892">
+    <state width="879" height="164" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1589628370018" />
+    <state width="879" height="164" key="GridCell.Tab.0.left" timestamp="1589628370018">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="164" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1589612250892" />
-    <state width="1804" height="164" key="GridCell.Tab.0.right" timestamp="1589612250893">
+    <state width="879" height="164" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1589628370018" />
+    <state width="879" height="164" key="GridCell.Tab.0.right" timestamp="1589628370018">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="164" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1589612250893" />
+    <state width="879" height="164" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1589628370018" />
     <state x="196" y="252" width="672" height="677" key="run.anything.popup" timestamp="1589549613565">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
