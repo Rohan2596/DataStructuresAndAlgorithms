@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c02e0ca8-b37d-4dc7-902f-f7d2bdc380d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/LinkedList/DoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/LinkedList/SinglyList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/datastructure/LinkedList/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/datastructure/LinkedList/DoubleLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bl-cms-backend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.DoubleLinkedList">
     <configuration name="ArrayCloneExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -138,7 +137,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589525384348</updated>
-      <workItem from="1589525389828" duration="22505000" />
+      <workItem from="1589525389828" duration="22729000" />
+      <workItem from="1589605152263" duration="5651000" />
     </task>
     <servers />
   </component>
@@ -154,22 +154,22 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="315" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1589551621700" />
-    <state width="1804" height="164" key="GridCell.Tab.0.bottom" timestamp="1589567803163">
+    <state width="1804" height="164" key="GridCell.Tab.0.bottom" timestamp="1589612250893">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="164" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1589567803163" />
-    <state width="1804" height="164" key="GridCell.Tab.0.center" timestamp="1589567803162">
+    <state width="1804" height="164" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1589612250893" />
+    <state width="1804" height="164" key="GridCell.Tab.0.center" timestamp="1589612250892">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="164" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1589567803162" />
-    <state width="1804" height="164" key="GridCell.Tab.0.left" timestamp="1589567803162">
+    <state width="1804" height="164" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1589612250892" />
+    <state width="1804" height="164" key="GridCell.Tab.0.left" timestamp="1589612250892">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="164" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1589567803162" />
-    <state width="1804" height="164" key="GridCell.Tab.0.right" timestamp="1589567803163">
+    <state width="1804" height="164" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1589612250892" />
+    <state width="1804" height="164" key="GridCell.Tab.0.right" timestamp="1589612250893">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="164" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1589567803163" />
+    <state width="1804" height="164" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1589612250893" />
     <state x="196" y="252" width="672" height="677" key="run.anything.popup" timestamp="1589549613565">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
