@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c02e0ca8-b37d-4dc7-902f-f7d2bdc380d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Queues/QueueExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Queues/QueueExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Vector/AccessVectorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Vector/RemoveVectorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Vector/VectorExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Queue/DeQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Queue/PriorityComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Queue/PriorityQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Queue/QueueExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/datastructure/Queue/QueuePriority.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,13 +36,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.RemoveVectorExample">
-    <configuration name="AccessVectorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Vector.AccessVectorExample" />
+  <component name="RunManager" selected="Application.DeQueueExample">
+    <configuration name="DeQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Queue.DeQueueExample" />
       <module name="DataStructureAndAlogrithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.datastructure.Vector.*" />
+          <option name="PATTERN" value="com.practice.datastructure.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveVectorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Vector.RemoveVectorExample" />
+    <configuration name="PriorityComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Queue.PriorityComparator" />
       <module name="DataStructureAndAlogrithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.datastructure.Vector.*" />
+          <option name="PATTERN" value="com.practice.datastructure.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Stacks.StackExample2" />
+    <configuration name="PriorityQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Queue.PriorityQueueExample" />
       <module name="DataStructureAndAlogrithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.datastructure.Stacks.*" />
+          <option name="PATTERN" value="com.practice.datastructure.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackLinkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Stacks.StackLinkedlist" />
+    <configuration name="QueueExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Queue.QueueExample1" />
       <module name="DataStructureAndAlogrithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.datastructure.Stacks.*" />
+          <option name="PATTERN" value="com.practice.datastructure.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VectorExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Vector.VectorExample1" />
+    <configuration name="QueuePriority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.Queue.QueuePriority" />
       <module name="DataStructureAndAlogrithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.datastructure.Vector.*" />
+          <option name="PATTERN" value="com.practice.datastructure.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,19 +103,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StackExample2" />
-      <item itemvalue="Application.StackLinkedlist" />
-      <item itemvalue="Application.VectorExample1" />
-      <item itemvalue="Application.RemoveVectorExample" />
-      <item itemvalue="Application.AccessVectorExample" />
+      <item itemvalue="Application.QueueExample1" />
+      <item itemvalue="Application.QueuePriority" />
+      <item itemvalue="Application.PriorityQueueExample" />
+      <item itemvalue="Application.PriorityComparator" />
+      <item itemvalue="Application.DeQueueExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveVectorExample" />
-        <item itemvalue="Application.AccessVectorExample" />
-        <item itemvalue="Application.VectorExample1" />
-        <item itemvalue="Application.StackExample2" />
-        <item itemvalue="Application.StackLinkedlist" />
+        <item itemvalue="Application.DeQueueExample" />
+        <item itemvalue="Application.PriorityComparator" />
+        <item itemvalue="Application.PriorityQueueExample" />
+        <item itemvalue="Application.QueuePriority" />
+        <item itemvalue="Application.QueueExample1" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589525384348</updated>
       <workItem from="1589525389828" duration="22729000" />
-      <workItem from="1589605152263" duration="19057000" />
+      <workItem from="1589605152263" duration="22842000" />
     </task>
     <servers />
   </component>
@@ -150,30 +150,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="803" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1589627742797">
+    <state x="803" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1589710746398">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="803" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1589627742797" />
+    <state x="803" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1589710746398" />
     <state x="315" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1589551621700">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="315" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1589551621700" />
-    <state width="1023" height="164" key="GridCell.Tab.0.bottom" timestamp="1589652699526">
+    <state width="1103" height="164" key="GridCell.Tab.0.bottom" timestamp="1589711486785">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1023" height="164" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1589652699526" />
-    <state width="1023" height="164" key="GridCell.Tab.0.center" timestamp="1589652699525">
+    <state width="1103" height="164" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1589711486785" />
+    <state width="1103" height="164" key="GridCell.Tab.0.center" timestamp="1589711486784">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1023" height="164" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1589652699525" />
-    <state width="1023" height="164" key="GridCell.Tab.0.left" timestamp="1589652699524">
+    <state width="1103" height="164" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1589711486784" />
+    <state width="1103" height="164" key="GridCell.Tab.0.left" timestamp="1589711486784">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1023" height="164" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1589652699524" />
-    <state width="1023" height="164" key="GridCell.Tab.0.right" timestamp="1589652699525">
+    <state width="1103" height="164" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1589711486784" />
+    <state width="1103" height="164" key="GridCell.Tab.0.right" timestamp="1589711486785">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1023" height="164" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1589652699525" />
+    <state width="1103" height="164" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1589711486785" />
     <state width="1023" height="340" key="GridCell.Tab.1.bottom" timestamp="1589650309356">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
